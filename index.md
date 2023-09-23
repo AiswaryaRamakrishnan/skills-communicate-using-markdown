@@ -1,8 +1,8 @@
-# This is an blog
+# This is an image
 
 ## it is beautiful
 
-###### This is an ironic blog
+###### This is an ironic image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 var myVar = "Hello, world!";
 - [ ] Turn on GitHub Pages
